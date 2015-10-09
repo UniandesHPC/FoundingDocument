@@ -1,0 +1,24 @@
+Hito 1
+
+Las secciones se refieren al documento pdf adjunto creado durante el 2014 de titulo "Master Documentn High Performance Computing at Uniandes". Representantes Ingenieria ya tiene conocimiento de ese documento desde el primer semestre del 2014.
+
+1. Definir el perfile del coordinador del centro y personal técnico para la administración 
+   y soporte de recursos.
+
+R/ Proponemos que se utilice el mismo perfil que ya definimos hace un año y medio en las secciones 1.2.2 y 1.2.3
+
+2. Buscar y contratar el coordinador y personal tecnico.
+
+R/ Proponemos que se conserve el coordinador y personal tecnico de DSIT que ya se encuentra al servicio del proyecto.
+
+3. Estandarizar los procedimientos para la utilizacion y desarrollo de los recursos computacionales.
+
+R/ Proponemos que estos procedimientos sean los del acuerdo de servicios que se firma con DSIT y del acuerdo de servicios con los usuarios. 
+
+4. Establecer la estructura de gobierno del centro.
+
+R/ Proponemos que se siga el esquema de la Seccion 1.2.
+
+5. Documentacion de los procesos.
+
+R/ Proponemos que se siga con la documentacion que ya hace el coordinador actual. 
